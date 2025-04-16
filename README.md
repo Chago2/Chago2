@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Chago2/Chago2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Desarrollador Web en proceso**
+:paint: **Diseñador Grafico de profesión**
+:oncoming_plane: **Fan de los simuladores de vuelo**
+:walk_man: **Aventurero enpedernido**
 
-Here are some ideas to get you started:
+### Vias de contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Forg-chago2.vercel.app%2F
+)]
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Chago2/Chago2)
