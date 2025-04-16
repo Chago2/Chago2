@@ -1,9 +1,9 @@
 # Hi there 👋
 
-:computer: **Desarrollador Web en proceso**
-:paint: **Diseñador Grafico de profesión**
-:oncoming_plane: **Fan de los simuladores de vuelo**
-:walk_man: **Aventurero enpedernido**
+💻 Desarrollador Web en proceso 
+🎨 Diseñador Gráfico de profesión 
+✈️ Fan de los simuladores de vuelo 
+🚶 Aventurero empedernido
 
 ### Vias de contacto
 
