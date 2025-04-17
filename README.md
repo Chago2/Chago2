@@ -1,9 +1,9 @@
-# Hi there 👋
+# Hola, soy Mauricio Valdés 👋
 
-💻 Desarrollador Web en proceso 
-🎨 Diseñador Gráfico de profesión 
-✈️ Fan de los simuladores de vuelo 
-🚶 Aventurero empedernido
+💻 **Desarrollador Web en proceso** 
+🎨 **Diseñador Gráfico de profesión** 
+✈️ **Fan de los simuladores de vuelo** 
+🚶 **Aventurero empedernido**
 
 ### Vias de contacto
 
@@ -11,3 +11,11 @@
 )]
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Chago2/Chago2)
+
+### Mis redes sociales
+
+[<img src="*"][instagram]
+
+### :zap: Actividad reciente
+
+<!--Start_Section: Activity>
