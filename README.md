@@ -18,4 +18,6 @@
 
 ### :zap: Actividad reciente
 
-<!--Start_Section: Activity>
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
