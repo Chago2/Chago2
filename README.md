@@ -1,9 +1,9 @@
 # Hola, soy Mauricio Valdés 👋
 
-:computer: **Desarrollador Web en proceso** 
-🎨 **Diseñador Gráfico de profesión** 
-✈️ **Fan de los simuladores de vuelo** 
-🚶 **Aventurero empedernido**
+:computer: **Desarrollador Web en proceso** <br> 
+🎨 **Diseñador Gráfico de profesión** <br>
+✈️ **Fan de los simuladores de vuelo** <br>
+🚶 **Aventurero empedernido**<br>
 
 ### Vias de contacto
 
@@ -13,7 +13,7 @@
 
 ### Mis redes sociales
 
-[<img src="/assetsinstagram.png"/>][https://www.instagram.com/mauriciovaldesf/]<br>
+[<img src="/assets/social/instagram.png"/>][https://www.instagram.com/mauriciovaldesf/]<br>
 [<img src="/assets/social/linkedin.png"/>][https://www.linkedin.com/in/santiago-valdés-franco/]
 
 ### :zap: Actividad reciente
