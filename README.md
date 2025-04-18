@@ -3,19 +3,19 @@
 :technologist: **Desarrollador Front end jr** <br>
 :art: **Diseñador Gráfico de profesión** <br>
 :airplane: **Fan de los simuladores de vuelo** <br> 
-:person_running: **Aventurero empedernido** <br>
+:compass: **Aventurero empedernido** <br>
 :taco: **Tragon por profesion** <br>
 
 ### Vías de contacto
 
-[![Website](https://img.shields.io/badge/Website-up-green?style=for-the-badge)](https://chago2.github.io)
+[![Website](https://img.shields.io/badge/chago2.github.io-up-green?style=for-the-badge)](https://chago2.github.io)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Chago2/Chago2)
 
 ### Mis redes sociales
 
-[<img src="/assets/social/instagram.png" alt="Instagram" width="30"/>](https://www.instagram.com/mauriciovaldesf/)  
-[<img src="/assets/social/linkedin.png" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/santiago-valdés-franco/)
+[<img src="/assets/social/instagram.png" alt="Instagram" width="90"/>](https://www.instagram.com/mauriciovaldesf/)  
+[<img src="/assets/social/linkedin.png" alt="LinkedIn" width="90"/>](https://www.linkedin.com/in/santiago-valdés-franco/)
 
 ### :zap: Actividad reciente
 
