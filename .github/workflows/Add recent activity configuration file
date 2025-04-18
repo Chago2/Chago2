@@ -1,5 +1,0 @@
-recent_activity:
-  # Add your configuration here
-  show_commits: true
-  show_pull_requests: true
-  show_issues: true
