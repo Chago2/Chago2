@@ -1,13 +1,14 @@
 # Hola, soy Mauricio Valdés 👋
 
-:computer: **Desarrollador Web en proceso** 
-🎨 **Diseñador Gráfico de profesión** 
-✈️ **Fan de los simuladores de vuelo** 
-🚶 **Aventurero empedernido**
+:technologist: **Desarrollador Front end jr** <br>
+:art: **Diseñador Gráfico de profesión** <br>
+:airplane: **Fan de los simuladores de vuelo** <br> 
+:person_running: **Aventurero empedernido** <br>
+:taco: **Tragon por profesion** <br>
 
 ### Vias de contacto
 
-[![Website](https://chago2.github.io)]
+[![Website](https://img.shields.io/badge/https://chago2.github.io-up-green?style=for-the-badge)][website]
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Chago2/Chago2)
 
