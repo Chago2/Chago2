@@ -6,16 +6,16 @@
 :person_running: **Aventurero empedernido** <br>
 :taco: **Tragon por profesion** <br>
 
-### Vias de contacto
+### Vías de contacto
 
-[![Website](https://img.shields.io/badge/https://chago2.github.io-up-green?style=for-the-badge)][website]
+[![Website](https://img.shields.io/badge/Website-up-green?style=for-the-badge)](https://chago2.github.io)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Chago2/Chago2)
 
 ### Mis redes sociales
 
-[<img src="/assetsinstagram.png"/>][https://www.instagram.com/mauriciovaldesf/]<br>
-[<img src="/assets/social/linkedin.png"/>][https://www.linkedin.com/in/santiago-valdés-franco/]
+[<img src="/assets/social/instagram.png" alt="Instagram" width="30"/>](https://www.instagram.com/mauriciovaldesf/)  
+[<img src="/assets/social/linkedin.png" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/santiago-valdés-franco/)
 
 ### :zap: Actividad reciente
 
