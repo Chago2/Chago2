@@ -13,8 +13,8 @@
 
 ### Mis redes sociales
 
-[<img src="/assests/instagram.png"/>][https://www.instagram.com/mauriciovaldesf/]
-[<img src="/assets/social/linkedin.png"/>][https://www.linkedin.com/in/santiago-valdés-franco/]
+![<img src="/assests/instagram.png"/>][https://www.instagram.com/mauriciovaldesf/]
+![<img src="/assets/social/linkedin.png"/>][https://www.linkedin.com/in/santiago-valdés-franco/]
 
 ### :zap: Actividad reciente
 
