@@ -7,14 +7,14 @@
 
 ### Vias de contacto
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Forg-chago2.vercel.app%2F
-)]
+![[Website](https://chago2.github.io)]
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Chago2/Chago2)
 
 ### Mis redes sociales
 
-[<img src="*"][instagram]
+[<img src="/assests/instagram.png"/>][https://www.instagram.com/mauriciovaldesf/]
+[<img src="/assets/social/linkedin.png"/>][https://www.linkedin.com/in/santiago-valdés-franco/]
 
 ### :zap: Actividad reciente
 
